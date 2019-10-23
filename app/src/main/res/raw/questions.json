@@ -1,0 +1,43 @@
+
+[
+  {
+    "question": "2+2 = 4",
+    "answer": true
+  },
+
+  {
+    "question" : "what is my favorite color?",
+    "answer" : true
+  },
+  {
+    "question" : "You are conducting a train going down a rail with 5 strangers you can run them over or you can change rails and run over a close friend. Which should you do?",
+    "answer" : false
+  },
+  {
+   "question": "I am really good at coding",
+    "answer" : false
+  },
+  {
+    "question": "What is the airspeed velocity of a fully unladen swallow",
+    "answer" : true
+  },
+  {
+    "question": "African or European",
+    "answer": false
+  },
+  {
+    "question": "Schizophrenia is a personality",
+    "answer": true
+  },
+  {
+    "question": "Ask me if I'm a truck",
+    "answer": false
+  },
+  {"question": "Yes?",
+    "answer": false
+  },
+  {
+    "question": "Mr.Shorr is a great teacher",
+    "answer": true
+  }
+]

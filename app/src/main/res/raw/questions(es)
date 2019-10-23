@@ -1,0 +1,42 @@
+[
+  {
+    "question": "2+2 = 4",
+    "answer": true
+  },
+
+  {
+    "question" : "¿Cuál es mi color favorito?",
+    "answer" : true
+  },
+  {
+    "question" : "Estás conduciendo un tren que baja por un riel con 5 extraños, puedes atropellarlos o puedes cambiar los rieles y atropellar a un amigo cercano. ¿Qué deberías hacer?",
+    "answer" : false
+  },
+  {
+    "question": "Soy muy bueno codificando",
+    "answer" : false
+  },
+  {
+    "question": "¿Cuál es la velocidad de velocidad de una golondrina completamente descargada?",
+    "answer" : true
+  },
+  {
+    "question": "Africana o europea",
+    "answer": false
+  },
+  {
+    "question": "La esquizofrenia es una personalidad.",
+    "answer": true
+  },
+  {
+    "question": "Pregúntame si soy un camión",
+    "answer": false
+  },
+  {"question": "¿si?",
+    "answer": false
+  },
+  {
+    "question": "Mr.Shorr es un gran maestro",
+    "answer": true
+  }
+]
