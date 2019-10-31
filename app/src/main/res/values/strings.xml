@@ -2,5 +2,7 @@
     <string name="app_name">Quiz</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="play_again_button">Play Again?</string>
+    <string name="score_textView">Score</string>
 
 </resources>

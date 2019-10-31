@@ -3,4 +3,6 @@
     <string name="app_name">Examen</string>
     <string name="false_button">Falso</string>
     <string name="true_button">Cierto</string>
+    <string name="play_again_button">" ¿Juega de nuevo?"</string>
+    <string name="score_textView">Puntuación</string>
 </resources>
